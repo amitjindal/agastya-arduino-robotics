@@ -46,6 +46,5 @@ void loop() {
     digitalWrite(MOTOR_2_N, LOW);
     digitalWrite(MOTOR_2_P, LOW);    
   }
-  delay(200); // Slow it down
 }
 
